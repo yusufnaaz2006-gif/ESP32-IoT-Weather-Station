@@ -2,6 +2,8 @@
 
 An IoT-based weather monitoring system built using ESP32, DHT11, OLED display, ThingSpeak cloud dashboard, LED, and buzzer.
 
+---
+
 ## Features
 
 * Real-time temperature and humidity monitoring
