@@ -91,17 +91,17 @@ ThingSpeak dashboard displays:
 ## 📷 Project Preview
 
 ### Hardware Setup
-(Add hardware image here)
+<img width="4096" height="3072" alt="Circuit_PIn" src="https://github.com/user-attachments/assets/cfb0b4d5-76fb-41ef-b5a8-aea6268dbaea" />
 
 ### Circuit Diagram
-<img width="500" height="1024" alt="Scematics_IOT" src="https://github.com/user-attachments/assets/9716b514-5b17-4fac-9e06-9484c8c61716" />
-
+<img width="1536" height="1024" alt="Scematics_IOT" src="https://github.com/user-attachments/assets/a44fda2f-68a1-4d50-ae80-1ef72eadebfa" />
 
 ### OLED Output
-(Add OLED image here)
+<img width="4096" height="3072" alt="OLED2" src="https://github.com/user-attachments/assets/eafe6911-72a2-48df-9fa7-c3ba39b88a86" />
+<img width="4096" height="3072" alt="OLED1" src="https://github.com/user-attachments/assets/1bf77446-0928-49a6-aa04-63daa4d3552e" />
 
 ### ThingSpeak Dashboard
-(Add dashboard screenshot here)
+<img width="1252" height="816" alt="image" src="https://github.com/user-attachments/assets/cd7524a4-de12-4a1f-974e-a15a3d261e64" />
 
 ---
 
