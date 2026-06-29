@@ -13,6 +13,8 @@ An IoT-based weather monitoring system built using ESP32, DHT11, OLED display, T
 * Buzzer alert for dangerous conditions
 * Live dashboard with charts and gauges
 
+---
+
 ## Hardware Used
 
 * ESP32 DevKit V1
@@ -22,11 +24,15 @@ An IoT-based weather monitoring system built using ESP32, DHT11, OLED display, T
 * Buzzer
 * Breadboard + Jumper Wires
 
+---
+
 ## Software Used
 
 * Arduino IDE
 * ThingSpeak
 * Embedded C
+
+---
 
 ## Wiring
 
@@ -51,9 +57,13 @@ An IoT-based weather monitoring system built using ESP32, DHT11, OLED display, T
 
 * GPIO26
 
+---
+
 ## Project Workflow
 
 DHT11 reads environmental data → ESP32 processes data → OLED displays live values → ESP32 sends data to ThingSpeak via WiFi → Dashboard visualizes live data → LED/Buzzer alerts for threshold conditions.
+
+---
 
 ## Dashboard
 
@@ -64,12 +74,22 @@ ThingSpeak dashboard displays:
 * Temperature Gauge
 * Humidity Gauge
 
+---
+
+##📷 Project Preview
+
+
+
+---
+
 ## Future Improvements
 
 * MQTT integration
 * FreeRTOS-based multitasking
 * Mobile app dashboard
 * Better sensors (BME280)
+
+---
 
 ## Author
 
